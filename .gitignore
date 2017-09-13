@@ -60,3 +60,6 @@ bower.json
 .powenv
 
 .idea/
+
+# Ignore Spring files.
+/spring/*.pid
